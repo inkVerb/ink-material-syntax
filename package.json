@@ -1,17 +1,17 @@
 {
-  "name": "atom-material-syntax",
+  "name": "ink-material-syntax",
   "theme": "syntax",
-  "version": "1.0.8",
-  "description": "A dark syntax theme for Atom that uses Google's Material Design color palette",
+  "version": "1.0.0",
+  "description": "A darker syntax theme for Atom that uses Google's Material Design color palette",
   "keywords": [
     "syntax",
     "theme",
     "material",
     "material design"
   ],
-  "repository": "https://github.com/silvestreh/atom-material-syntax",
+  "repository": "https://github.com/inkVerb/ink-material-syntax",
   "license": "MIT",
   "engines": {
-    "atom": ">=1.13.0 <2.0.0"
+    "atom": ">=1.13.0"
   }
 }
